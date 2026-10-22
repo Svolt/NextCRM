@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly convert markdown files into fully functional web applications, ensuring accurate implementation of all instructions for developers and teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
